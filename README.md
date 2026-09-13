@@ -34,3 +34,5 @@ python gui.py --url "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 ```
 
 Or you can create a shortcut to `pythonw.exe gui.py` on your Desktop to launch it without a background command prompt.
+
+<!-- refreshed: 2026-09-13 -->
